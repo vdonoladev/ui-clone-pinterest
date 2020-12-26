@@ -31,4 +31,4 @@ Use a tool like [Live Server](https://marketplace.visualstudio.com/items?itemNam
 The project is under the MIT license. To learn more, access the file [LICENSE](https://github.com/vdonoladev/ui-clone-pinterest/blob/main/LICENSE).
 
 ---
-**Desenvolvido com ❤️ por [Víctor Donola Ferreira](https://github.com/vdonoladev/).**
+**Developed with ❤️ by [Víctor Donola Ferreira](https://github.com/vdonoladev/).**
